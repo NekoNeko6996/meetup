@@ -9,5 +9,5 @@ public class MeetupApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MeetupApplication.class, args);
 	}
-
+	
 }
